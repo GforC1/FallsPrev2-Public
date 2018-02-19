@@ -1,0 +1,6 @@
+app FallsPrev2-Public   = Test app on Falls Prev (v2) - new system setup from 18 Feb 2018
+  maximages = 6
+  icon      = https://avatars3.githubusercontent.com/u/36601206?v=4
+  author    = GforC1
+  email     = 36601206+GforC1@users.noreply.github.com
+
