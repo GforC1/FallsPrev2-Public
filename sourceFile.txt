@@ -10,7 +10,7 @@ app    FallsPrev2-Public            =  Falls Prevention 2
 photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
        url                          =  IMG_8149.jpg                                                                                              
 fact   Marble.bathroom.1            =  Marble is like ice when wet                                                                                       
-fact   Marble bathroom.2            =  Toilet needs handrails                                                                                                                                   
+fact   Marble.bathroom.2            =  Toilet needs handrails                                                                                                                                   
 
 Photo  Slip.ons                     =  Badly-fitting footwear
        url                          =  20170723_173449.jpg
