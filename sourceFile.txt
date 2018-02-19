@@ -1,4 +1,4 @@
-app    FallsPrev2-Public            =  Falls Prevention 2                                                                  
+app    FallsPrev2.Public            =  Falls Prevention 2                                                                  
        author                       =  GforC1                                                                                            
        description                  =  Second test of 180218 automated system                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
