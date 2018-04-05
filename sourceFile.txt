@@ -1,4 +1,4 @@
-app    FallsPrev2-Public            =  Aspects of falls prevention                                                     
+app    FallsPrev2-Public            =  Aspects of falls                                                      
        author                       =  OnCoreliu1                                                                                            
        description                  =  Third test of 180218 iteration                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
